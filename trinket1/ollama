@@ -1,0 +1,3 @@
+#!/bin/zsh
+# Ollama CLI wrapper for Trinket. Uses the Ollama app already in ~/Downloads.
+exec "/Users/kookmac/Downloads/Ollama.app/Contents/Resources/ollama" "$@"
